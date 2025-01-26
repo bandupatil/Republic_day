@@ -48,3 +48,9 @@ nano index.html
 git add .
 git commit -m "pokie"
 git push origin master
+sudo apt update
+clear
+nano index.html 
+git add .
+git commit -m "p"
+git push origin master
