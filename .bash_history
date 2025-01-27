@@ -54,3 +54,25 @@ nano index.html
 git add .
 git commit -m "p"
 git push origin master
+sudo apt update
+clear
+sudo apt install git -y
+sudo apt-get install docker.io
+git init 
+git remote add origin git@github.com:bandupatil/Republic_day.git
+git pull origin master
+ls
+ssh-keygen
+cat /home/admin/.ssh/id_rsa.pub
+git remote add origin git@github.com:bandupatil/Republic_day.git
+git pull origin master
+ls
+git status
+mkdir ~/backup_files
+mv .bash_logout .bashrc .profile .sudo_as_admin_successful ~/backup_files/
+git pull origin master
+ls
+clear
+nano index.html 
+nano Dockerfile
+sudo usermod admin -aG docker
